@@ -1,6 +1,6 @@
 <p align="center">
 
-  ![pf visito](https://komarev.com/ghpvc/?username=darknessm427&color=blueviolet)<img src="https://github.com/mansor427/mansor427/assets/104245967/70d5725e-39eb-445a-8a50-d134a2f3ece5" width="30px" alt="">
+  ![pf visito](https://komarev.com/ghpvc/?username=DarknessShade&color=blueviolet)<img src="https://github.com/mansor427/mansor427/assets/104245967/70d5725e-39eb-445a-8a50-d134a2f3ece5" width="30px" alt="">
   <a href="https://github.com/DarknessShade"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!;👾ÐΛɌ₭ᑎΞ𐒡𐒡👾;&font=Pacifico&center=true&width=400&height=35&color=03ffcd&vCenter=true&size=25"></a>
 </p> 
 
