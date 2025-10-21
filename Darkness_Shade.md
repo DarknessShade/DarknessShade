@@ -1,12 +1,15 @@
-# Darkness Shade
+# ÐΛɌ₭ᑎΞ𐒡𐒡🗽𓄂𓆃
 
-## dns Tester
+
+## DNS Tester
+
 ### تستر آنلاین DNS
+
 ابزار آنلاین، سریع و مدرن برای تست و مقایسه سرعت پاسخ‌دهی (Ping) سرورهای DNS مختلف. این پروژه با هدف کمک به کاربران برای یافتن سریع‌ترین و پایدارترین سرور DNS بر اساس موقعیت جغرافیایی و شرایط شبکه آن‌ها، توسعه داده شده است.
 
 
 <p align="center" > 
-   <img  width="25%"  src="https://github.com/user-attachments/assets/a8ea7c73-cf22-4062-89af-bc0d83693d99" />
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Dns.jpg" />
 </p> 
 
 
@@ -24,6 +27,40 @@ https://github.com/DarknessShade/DNS-Tester
 
 ---
 
+## Hiddify Warp
+
+<p align="center" > 
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Wraphid.jpg" />
+</p>
+
+
+یه وب ساده زدم که داخلش میتونید کانفیگ وارپ بسازید برا Hiddify
+
+• Web https://darknessshade.github.io/Hiddify-Warp/
+
+• Web https://hiddify-warp.pages.dev/
+
+دو مدل هم IPv4 , هم IPv6
+اگه IP خودتون داشته باشید که میدید براتون می‌سازه نداشته باشید تیکه Auto fill میزنی خودش میده بهت
+میتونید مدشم خودتون تغییر بدید , و wrap on warp میتونید بسازید در دو مدل ipv6,ipv4
+
+
+---
+
+## Subscription 
+
+<p align="center" > 
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Sub.jpg" />
+</p> 
+
+مجموعه ای از ساب ها با انواع پروتکل برای هر نوع کلاینتی 
+
+• Web https://sub-darkness.pages.dev/
+
+• Web https://darknessshade.github.io/Sub/
+
+---
+
 ## Wirguard Config
 کانال کانفیگ‌ وایرگارد بصورت اتومات میسازه
 
@@ -35,7 +72,14 @@ https://t.me/ConfigWireguard
 
  ---
  ## Proxy Telegram
+
+<p align="center" > 
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Proxy.jpg" />
+</p> 
+ 
 وب و کانال برای پروکسی با دو پروتکل مجزا
+Mtporo
+Socks5
 
 • Web
 https://telegram-proxy-fetcher.pages.dev/
@@ -43,12 +87,14 @@ https://telegram-proxy-fetcher.pages.dev/
 • Channel 
 https://t.me/ProxySkull
 
-Mtporo
-Socks5
-
 ---
 
 ## Clean IP
+
+<p align="center" > 
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Ip.jpg" />
+</p> 
+
 از این سه تا منبع میتونید ای پی برای
 وارپ Hiddify ، اندپوینت  Oblivion ، وایرگارد استفاده کنید
 هر سه منبع روزانه اسکن و آپدیت میشن
@@ -69,8 +115,15 @@ https://darknessshade.github.io/IP-Generator/
 • Channel
 https://t.me/Eset_key_trial
 
+اموزش ساخت کلید https://t.me/Paradise_Of_Freedom/305
+
 ---
 ## update release 
+
+<p align="center" > 
+   <img  width="60%"  src="https://raw.githubusercontent.com/DarknessShade/DarknessShade/main/Image/Upgit.jpg" />
+</p> 
+
 اینجا میتونید اطلاع رسانی آپدیت برنامه های متن باز فیلترشکن که توسط توسعه دهنده های ایرانی عرضه میشن داخل گیت هاب رو ببینید.
 میتونید خودتونم ریپو اضافه کنید و همونجا لینک دانلود رو کپی کنید یا دانلود کنید.
 
@@ -119,5 +172,6 @@ https://play.google.com/store/apps/details?id=com.tlsvpn.tlstunnel
 بیشتر نتا کار می‌کنه مخصوصا رو همراه اول سرعت خوب 
 
 این پست تمامی sni هارو گذاشتم 
+
 https://t.me/Paradise_Of_Freedom/298
 
