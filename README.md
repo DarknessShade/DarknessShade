@@ -21,7 +21,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
   <a href="https://instagram.com/mansor427" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
    <a href = "mailto:mansor427@yahoo.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
   <a href="https://t.me/mansor427" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
-  <a href="https://github.com/DarknessShade" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
+  <a href="https://github.com/DarknessShade" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=orange&labelColor=0D1117" target="_blank"></a> 
   </p>
 <!--
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mansor427) 
