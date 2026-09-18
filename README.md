@@ -83,23 +83,6 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 </a>
 
 
-
-![DarknessShade Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarknessShade&custom_title=darknessm427's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-
-## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=**DarknessShade**&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- [![](https://visitcount.itsvg.in/api?id=mansor427&icon=5&color=7)](https://visitcount.itsvg.in) -->
-
-## <img src="./image/pl (20).gif" width="30px" alt=""> Top Rep 
-<!--  <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" /> -->
-  [![wow](https://github-readme-stats.vercel.app/api/pin/?username=DarknessShade&repo=WoW&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/DarknessShade/WoW)
-  [![ESET-Key](https://github-readme-stats.vercel.app/api/pin/?username=DarknessShade&repo=ESET-Key&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/DarknessShade/ESET-Key)
-  [![Ip](https://github-readme-stats.vercel.app/api/pin/?username=DarknessShade&repo=IP_Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/DarknessShade/IP_Generator)
-  [![Hiddify-warp](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/mansor427/workers)
-
 <p align="left">
   <a href="https://github.com/DarknessShade?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
