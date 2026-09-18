@@ -76,13 +76,6 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 </p>
 
 
-
-<p align="center">
-  <a href="https://github.com/DarknessShade">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darknessm427&theme=radical" alt="DarknessShade GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
   <a href="https://github.com/DarknessShade"><img alt="DarknessShade Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DarknessShade&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/DarknessShade"><img alt="DarknessShade's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DarknessShade&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
